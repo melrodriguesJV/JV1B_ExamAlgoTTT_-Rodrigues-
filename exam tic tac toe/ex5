@@ -1,0 +1,17 @@
+def grille ():
+   for i in range (0,5):
+           if (i==1 or i==3):
+               print (3 * " __" " ")
+           else : 
+                print (2* "   " "|")
+
+
+tab =["","",""]
+def select ():
+   a = int(input("quelle case modifier (0,1,2)"))
+   case = a
+   stock = "O"
+   tab[a] = stock
+
+
+

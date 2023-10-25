@@ -1,0 +1,6 @@
+tab =["","",""]
+def select ():
+   a = int(input("quelle case modifier (0,1,2)"))
+   case = a
+   stock = "O"
+   tab[a] = stock

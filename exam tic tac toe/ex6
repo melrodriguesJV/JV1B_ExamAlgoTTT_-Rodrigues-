@@ -1,0 +1,2 @@
+# Pour transformer le code du tic tac toe en puissance 4, il faudrait déjà avoir une grille de jeu bien plus grande
+et faire en sorte que les symboles soient insérés dans la case vide la plus basse à la manière d'un tri à bulles.

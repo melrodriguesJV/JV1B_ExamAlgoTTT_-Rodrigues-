@@ -1,0 +1,20 @@
+tab =[]
+def ligne():
+    for i in range(len(tab)):
+         
+        return True
+
+def diagleft():
+    for i in range(len(tab)):
+         
+        return True
+
+def diagright():
+    for i in range(len(tab)):
+         
+        return True
+
+def colonne():
+    for i in range(len(tab)):
+        
+        return True
